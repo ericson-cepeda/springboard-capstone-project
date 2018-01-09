@@ -8,6 +8,7 @@ Springboard Data Science Python
    * Historical data could provide insights of how, based on new data from sensors, the population will migrate.
    * Dataset: https://github.com/fivethirtyeight/data/tree/master/us-weather-history
    * Can it be complemented with air quality data? https://www.epa.gov/outdoor-air-quality-data
+   * State of the art: https://www.sciencedirect.com/science/article/pii/S0959378016300140
 
 
 2. Machine learning, text classification: From a data set of conversations b2c.
