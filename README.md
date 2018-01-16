@@ -22,6 +22,12 @@ Springboard Data Science Python
    * Dataset: https://www.kaggle.com/mczielinski/bitcoin-historical-data
    * Dataset: https://www.kaggle.com/jessevent/all-crypto-currencies
 
+4. Recommendation: Prices from reviews
+   * Prices can be guessed/suggested from a reviews dataset.
+   * A shoppers network can get benefits from the system being able to automate the process through AI, generating more revenue.
+   * Dataset: https://www.kaggle.com/c/mercari-price-suggestion-challenge/data
+   
+
 ## Additional dataset sources
 
 1. https://aws.amazon.com/datasets/
